@@ -1,4 +1,4 @@
-# HR Analytics Dashboard (Excel)
+# HR Analytics Dashboard (Advanced Excel)
 
 ## Project Overview
 This **HR Analytics Dashboard** provides insights into employee attrition, workforce demographics, and job satisfaction. It helps HR teams make data-driven decisions to improve employee retention and performance.
